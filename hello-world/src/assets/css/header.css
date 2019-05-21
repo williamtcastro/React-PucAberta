@@ -1,0 +1,21 @@
+.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4DD0E1;
+  }
+  
+  .menu-item{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+.menu-item:hover {
+    background-color: #00ACC1;
+  }

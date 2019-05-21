@@ -1,0 +1,10 @@
+.hero-img{
+    margin: 0;
+    color: #f1f1f1;
+    background-image: url('../img/hero.jpg');
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-position: center;
+}
+

@@ -1,0 +1,36 @@
+.header-box{
+    height: 10vh;
+    width: auto;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .menu-item{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+.menu-item:hover {
+    color: #4CAF50;
+  }
+
+.pull-left{
+    float: right;
+}
+
+.img-logo{
+  background-image: url('https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
